@@ -4,6 +4,7 @@ Thumbs.db
 .idea/
 *.log
 *.tmp
+.tmp/
 *.bak
 kubeconfig
 *.kubeconfig
@@ -11,3 +12,4 @@ kubeconfig
 *.pem
 *.crt
 moodle/temp/
+tools/
