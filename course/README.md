@@ -14,4 +14,4 @@ Cet export Markdown reprend la structure pédagogique du cours Moodle original, 
 
 ## Banque de questions
 
-- [Banque complète](questions/banque-questions.md)
+- [Banque complète](questions-reponse/banque-questions.md)
