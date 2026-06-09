@@ -38,9 +38,9 @@ curl -sfL https://get.k3s.io | K3S_URL=https://<IP_DU_SERVEUR>:6443 K3S_TOKEN=<T
 
 <details>
 
-<summary>**Résultat**</summary>
+<summary><strong>Résultat</strong></summary>
 
-![E0 (1)](../../../screenshots/lab-06/E0-1.png)
+![E0](../../../screenshots/lab-06/E0.png)
 
 **Interprétation :**
 
