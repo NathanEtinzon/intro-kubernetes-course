@@ -12,12 +12,6 @@ Le cours introduit les concepts fondamentaux de Kubernetes, puis les met en prat
 - Documentation complémentaire : [docs/](docs/)
 - Captures : [screenshots/](screenshots/)
 
-## Parcours Moodle exporté
-
-L'export Markdown reprend les sections et sous-sections du cours Moodle original : accueil, compréhension de Kubernetes, mise en pratique, évaluation finale et références. Les quiz sont exportés avec leurs questions afin de faciliter la maintenance pédagogique hors Moodle.
-
-Les informations d'identification non nécessaires à une diffusion publique ont été neutralisées dans les fichiers Markdown. L'archive `.mbz` reste l'artefact source et doit être contrôlée avant toute publication externe.
-
 ## Importer le cours dans Moodle
 
 1. Télécharger le fichier `moodle/intro-kubernetes-course.mbz`.
